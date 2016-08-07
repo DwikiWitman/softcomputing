@@ -1,2 +1,3 @@
 # softcomputing
-build a smart device.
+build a smart computing device.
+created by Dwiki Witman.
